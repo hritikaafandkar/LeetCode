@@ -21,3 +21,15 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 - 🌐 Platform: [LeetCode](https://leetcode.com/)
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/hritikaafandkar/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/hritikaafandkar/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
