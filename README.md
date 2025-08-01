@@ -37,4 +37,17 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hritikaafandkar/LeetCode/tree/master/0118-pascals-triangle) |
+| [1013-fibonacci-number](https://github.com/hritikaafandkar/LeetCode/tree/master/1013-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hritikaafandkar/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hritikaafandkar/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/hritikaafandkar/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
