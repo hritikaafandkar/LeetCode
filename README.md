@@ -28,8 +28,13 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hritikaafandkar/LeetCode/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/hritikaafandkar/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hritikaafandkar/LeetCode/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/hritikaafandkar/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
