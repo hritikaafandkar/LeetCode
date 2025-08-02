@@ -54,9 +54,14 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hritikaafandkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/hritikaafandkar/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hritikaafandkar/LeetCode/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/hritikaafandkar/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
