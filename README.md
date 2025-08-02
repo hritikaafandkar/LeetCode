@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/hritikaafandkar/LeetCode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/hritikaafandkar/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -50,4 +51,12 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hritikaafandkar/LeetCode/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hritikaafandkar/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hritikaafandkar/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
