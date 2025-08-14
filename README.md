@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 | ------- |
 | [0001-two-sum](https://github.com/hritikaafandkar/LeetCode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/hritikaafandkar/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hritikaafandkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hritikaafandkar/LeetCode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hritikaafandkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/hritikaafandkar/LeetCode/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
