@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hritikaafandkar/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/hritikaafandkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0118-pascals-triangle](https://github.com/hritikaafandkar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hritikaafandkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -56,6 +57,7 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/hritikaafandkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/hritikaafandkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/hritikaafandkar/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -66,4 +68,8 @@ This repository contains my solutions to LeetCode problems written in **JavaScri
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hritikaafandkar/LeetCode/tree/master/0125-valid-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hritikaafandkar/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
